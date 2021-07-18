@@ -1,3 +1,5 @@
-# Aiffel_exploration
+# Aiffel_project
 
-아이펠 프로젝트 진행
+- Aiffel_exploration
+- Aiffel_fundamental
+  아이펠 프로젝트 진행
